@@ -19,6 +19,7 @@ red = (255,0,0)
 blue = (0,0,100)
 bright_blue = (0,0,255)
 bright_green = (0,255,0)
+#hello there
 
 clock = pygame.time.Clock()
 carImg = pygame.image.load('car_resize.png')
